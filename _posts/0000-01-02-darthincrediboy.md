@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Babbity Rabbity is rhymey whymey
 Use the left arrow to go back!
